@@ -12,7 +12,7 @@ MATLAB 2016a
 
 ## Screencapture
 
-[alt text](https://github.com/gimse/GravitySimulationBetweenMasses/blob/master/demo1.gif)
+![alt text](https://github.com/gimse/GravitySimulationBetweenMasses/blob/master/demo1.gif)
 
 ## Authors
 
