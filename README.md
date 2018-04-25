@@ -2,6 +2,10 @@
 
 Simulation forces between objects, og solving the system with a Runge-Kutta Method (RK4)
 
+## Screencapture
+
+![alt text](https://github.com/gimse/GravitySimulationBetweenMasses/blob/master/demo1.gif)
+
 ## Getting Started
 
 Run the main.m file
@@ -10,11 +14,7 @@ Run the main.m file
 
 MATLAB 2016a
 
-## Screencapture
-
-![alt text](https://github.com/gimse/GravitySimulationBetweenMasses/blob/master/demo1.gif)
-
 ## Authors
 
-* **Håkon Gimse** - *Initial work* - [gimse](https://github.com/gimse)
+* **HÃ¥kon Gimse** - *Initial work* - [gimse](https://github.com/gimse)
 
