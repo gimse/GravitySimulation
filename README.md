@@ -1,4 +1,4 @@
-# Gravity Simulation Between Masses
+# Gravity Simulation
 
 Simulation forces between objects, og solving the system with a Runge-Kutta Method (RK4)
 
