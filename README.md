@@ -4,7 +4,7 @@ Simulation forces between objects, og solving the system with a Runge-Kutta Meth
 
 ## Screencapture
 
-![alt text](https://github.com/gimse/GravitySimulation/blob/master/demo1.gif)
+![alt text](demo1.gif)
 
 ## Getting Started
 
